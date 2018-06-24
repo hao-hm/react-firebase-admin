@@ -1,0 +1,7 @@
+.search-box {
+  border: none !important;
+}
+.search-box:focus {
+  border: none !important;
+  box-shadow: none !important;
+}
